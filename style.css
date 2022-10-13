@@ -1,0 +1,292 @@
+.button{
+    background-color: rgb(191, 197, 195);
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    border-radius: 12px;
+}
+.container{
+    height: 100px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+
+}
+
+.inner{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+
+}
+
+.shipping{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.inspire{
+    text-align: center;
+}
+
+.elevated{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    
+}
+
+.air-jordan{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+}
+
+.man{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.icon{
+    text-align: left;
+    padding-left: 50px;
+}
+
+.slippers{
+    padding-bottom: 70%;
+}
+
+.lady-in-black{
+    padding-top: 100%;
+}
+
+.join{
+    padding-left: 10%;
+}
+
+.sign{
+    padding-right: 10%;
+}
+.air-max{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.what{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.air-style{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.shop_too{
+    background-color: rgb(191, 197, 195);
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    border-radius: 12px;
+
+}
+
+.nike{
+    text-align: center;
+}
+
+.jordan-logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+}
+
+.form{
+    text-align: center;
+}
+
+.login{
+    background-color: rgb(191, 197, 195);
+    border: none;
+    padding: 15px 32px;
+    border-radius: 12px;
+
+}
+
+.forgot{
+    text-align: center;
+
+}
+.create{
+    text-align: center;
+}
+
+.form-2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  background-color: rgb(240, 247, 244);
+}
+
+.container-2{
+    text-align: center;
+    
+}
+
+.featured-foot{
+    padding-left: 40px;
+}
+
+.pls-login{
+    text-align: center;
+
+}
+.jordan-sign{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.form{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  background-color: rgb(240, 247, 244);
+}
+
+.login-btn{
+    background-color: rgb(191, 197, 195);
+    border: none;
+    padding: 15px 32px;
+    border-radius: 12px;
+}
+
+.forgot-pass{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  background-color: rgb(240, 247, 244);
+}
+
+.forgot{
+    background-color: rgb(191, 197, 195);
+    border: none;
+    padding: 15px 32px;
+    border-radius: 12px;
+
+}
+
+.footer{
+    background-color: black;
+    border-radius: 15px;
+
+}
+
+.footer-body{
+    
+}
+
+.fonts{
+    color: #ccc;
+    font-weight: 900px;
+}
+
+.tweeter{
+    width: 40px;
+    border-radius: 10px;
+
+}
+
+.fbook{
+width: 40px;
+border-radius: 10px;
+}
+
+.ig{
+width: 40px;
+border-radius: 10px;
+}
+
+.ytube{
+    width: 40px;
+    border-radius: 10px;
+}
+
+.socials{
+    text-align: center;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+.grid-item1{
+    text-align: end;
+    padding-right: 20px;
+}
+
+.grid-item{
+    text-align: center;
+    color: #ccc;
+
+}
+
+.container-features{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding-left: 200px;
+    padding-top: 50px;
+}
+
+.location{
+    width: 40px;
+border-radius: 10px;
+padding-left: 20px;
+}
+
+.fbook-img{
+    color: rgb(255, 0, 0);
+}
+
+.naija{
+    padding-left: 100px;
+    padding-bottom: 50px;
+}

@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+body{
+    background: url(./Assets/mahaan-mehranii-kTegU2zb2tA-unsplash.jpg);
+    background-size: cover;
+    color: #fff;
+
+}
+
+
+.registration-form{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+}
+
+.registration-form p{
+    font-size: 20px;
+    margin: 15px 0;
+}
+
+.registration-form input{
+    font-size: 16px;
+    padding: 15px 10px;
+    width: 100%;
+    border: 0;
+    border-radius: 5px;
+    outline: none;
+}
+
+.login{
+    font-size: 18px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 10px 15px;
+    width: 10%;
+    border: 0;
+    border-radius: 5px;
+    background-color: rgb(86, 189, 202);
+    align-items: center;
+    text-align: center;
+    
+}
+
+.pls-login{
+    padding: 500px;
+
+}
+
+.create{
+    text-align: center;
+    padding-top: 50px;
+    font-weight: bold;
+}
+
+.login2{
+   
+    
+
+}
